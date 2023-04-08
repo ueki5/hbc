@@ -1,2 +1,1 @@
 # hbc
-haskellで作るcbcコンパイラ
