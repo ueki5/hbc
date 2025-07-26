@@ -33,7 +33,7 @@
             "startupFunc": "",
             "startupArgs": "",
             "stopOnEntry": false,
-            "mainArgs": "-s aaa.txt -v",
+            "mainArgs": "-s input/aaa.txt -v",
             "ghciPrompt": "H>>= ",
             "ghciInitialPrompt": "> ",
             "ghciCmd": "stack ghci --with-ghc=ghci-dap --test --no-load --no-build --main-is TARGET",

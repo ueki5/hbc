@@ -2,3 +2,4 @@
 /output/
 .stack-work/
 *~
+.vscode/**/*.log
